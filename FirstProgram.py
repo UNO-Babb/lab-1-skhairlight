@@ -1,14 +1,17 @@
 #FirstProgram.py
-#Name:
-#Date:
-#Assignment:
+#Name: Salsabiel Khair Allah
+#Date: August 30
+#Assignment: Lab 1
+#Purpose: To ask a user for their name and calculate their birth year
 
 def main():
   print("First Program")
   #Say hello
-  
+  print("Hello!")
+  name = input("What's your name?")
+  print("Hello" name"!")
+  age = input("What's your age?")
   #Ask for the user's name
-
   #Use the user's name in the program.
 
   #Ask the user for their age.
