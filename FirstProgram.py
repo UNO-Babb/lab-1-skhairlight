@@ -9,11 +9,11 @@ def main():
   #Say hello
   print("Hello!")
   name = input("What's your name?")
-  print(name)
   print("Hello" name"!")
   age = input("What's your age?")
-  print(age)
-  birth_year = 2025 - age
+  age = int(age)
+  current_year = 2025
+  birth_year = current_year - age
   print("Your birth year is" birth_year"1")
   #Ask for the user's name
   #Use the user's name in the program.
